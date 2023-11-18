@@ -1,0 +1,30 @@
+- Change loading mechanism, so that it loads a pre-formatted table, instead of
+	building it on every start-up.
+
+- Create node-pool ternary tree implementation, to allow quick loading.
+
+- Need to check final round of silent letters.  E.g, make 'kumput' offer
+	'compute'
+
+- Create a follow table, such that given a diphthong, only spellings that are
+	known to directly follow the diphthong (in a given word list) are checked.
+	Perhaps create a matrix that has number of times that it occurs in a given
+	word list.  This would allow pruning (intelligently) even down in the middle
+	(or end for that matter) of the word, we would be working with more
+	contextual information.  This could also possibly be used as a ordering
+	mechanism, most likely candidate list.
+
+- Check only a single diphthong at a time, i.e. check for first one wrong
+	diphthong, then 2, 3, and so on up to a designated maximum (up to the size
+	of the word)
+
+- Create a doublearray implementation, to compare the speed with this
+
+- Create a doubletrie from the doublearray implementation for better
+	compression
+
+- Add in suffix, prefix checks
+
+- Create map that maps the various diphthongs to shorter sequences, maybe
+	numbers or something similar
+
