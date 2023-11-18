@@ -2,7 +2,7 @@
 
 import java.util.*;
 import java.io.*;
-import TernaryTree;
+//import TernaryTree;
 
 public class TernaryTreeDict extends TernaryTree {
    public void loadWords(String file) {

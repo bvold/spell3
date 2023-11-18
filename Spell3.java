@@ -29,7 +29,7 @@ final class Spell3 {
 	public Spell3() {  // Constructor
 		// Load the tree with the dictionary
 		//Dictionary.loadWords("/usr/dict/words");  // Include this file in dist?
-		Dictionary.loadWords("c:/java/spell3/words");  // Include this file in dist?
+		Dictionary.loadWords("words");  // Include this file in dist?
 		//Dictionary.loadWords("words");  // testing only
 		// Probably using a double trie?
 		// creating either a skeleton key offset, omission key, or soundex key
