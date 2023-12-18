@@ -23,7 +23,7 @@ Here's the gist:
 
 The first victim? "Laff". While technically acceptable in some circles (OED, I'm looking at you!), my brute-force approach happily suggested "laugh" as the one-and-only solution.
 
-Then came "ghhoti". This linguistic unicorn, with its /gh/, /o/, and /ti/ sounding suspiciously like "fish", became my ultimate test. Did Spell3 crack the code? You bet it did! A testament to the beauty (and occasional absurdity) of the naive approach.
+Then came "ghoti". This linguistic unicorn, with its /gh/, /o/, and /ti/ sounding suspiciously like "fish", became my ultimate test. Did Spell3 crack the code? You bet it did! A testament to the beauty (and occasional absurdity) of the naive approach.
 
 **The Future:**
 
